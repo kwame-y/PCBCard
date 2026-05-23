@@ -4,7 +4,28 @@ author: Kwame
 description: A small introductory business card made from PCB, goal is to include a small heart rate sensor or pulse ox for a uniqueness factor!
 created_at: 2026-05-23T11:59:01-05:00
 modified_at: 2026-05-23T14:28:00-05:00
+modified: 2026-05-23T16:00:27-05:00
 ---
-# May 23, 2026: Brainstormed Ideas
+# May 23, 2026
 
-Spent some time getting ideas for my card. I settled on including an NFC linking to my digital garden / eportfolio, a heartrate sensor, and some led lights (blink depending on heart rate), I am very new to creating PCBs so we'll see how this goes?
+I wanted to build an interactive digital business card with 3 main features (maybe more later).
+
+1. An **NFC tag** that automatically opens a link to my digital garden / e-portfolio when scanned by a phone.
+2. A **sensor** to read a user's heart rate when they touch the card.
+3. A cluster of **LEDs** that flash in sync with their pulse.
+
+I'm extremely new to hardware design, so my main goal today was just getting the foundational stuff down. Here is what the schematic and layout looks like so far:
+![[Screenshot 2026-05-23 at 15.53.26.png]]
+![[Screenshot 2026-05-23 at 15.53.15.png]]
+
+The absolute hardest part of today was sourcing the right NFC chip. Because the card needs to be slim and run on a tiny coin-cell battery.
+
+I initially stumbled onto the _nRF5340-QKAA-R7_, which features integrated Bluetooth and NFC. However i came to realise that 1. it's a semiconductor and 2. it uses 94 very very very small pins, which would be impossible for me to solder.
+
+Instead, I found a much simpler option, using the **ATtiny85 microcontroller** as the main brain, and as for the NFC functionality, I spent a lot of time digging through SnapEDA and settled on **NT3H2211W0FHKH**
+
+Because it’s a dedicated tag, it features an I2C interface (`SDA` and `SCL`) that shares the exact same data wires as my heart rate sensor, saving valuable pins on the ATtiny85 (from what I understand).Another cool aspect is that it has a `VOUT` energy-harvesting pin and an `FD` (Field Detect) pin that signals the ATtiny85 the exact moment a smartphone interacts with the card's magnetic field (opens doors to some other ideas i could implement).
+
+I plan to design the visual desgin in Affinity, export it, and import the line art directly into KiCad's silkscreen layer. I also want to wrap a custom 4-turn copper loop antenna around the entire outer edge of the card to act as the NFC receiver, while styling the internal copper traces to look like spider webs radiating out from the ATtiny85 brain.
+
+**Time Spent: ~2.75 hours**
