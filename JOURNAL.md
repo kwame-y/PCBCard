@@ -15,8 +15,7 @@ I wanted to build an interactive digital business card with 3 main features (may
 3. A cluster of **LEDs** that flash in sync with their pulse.
 
 I'm extremely new to hardware design, so my main goal today was just getting the foundational stuff down. Here is what the schematic and layout looks like so far:
-![[images/Screenshot 2026-05-23 at 15.53.26.png]]
-![[images/Screenshot 2026-05-23 at 15.53.15.png]]
+images/Screenshot 2026-05-23 at 15.53.15.png
 
 The absolute hardest part of today was sourcing the right NFC chip. Because the card needs to be slim and run on a tiny coin-cell battery.
 
