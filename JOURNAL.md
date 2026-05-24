@@ -1,3 +1,4 @@
+
 ---
 title: PCBCard
 author: Kwame
@@ -14,7 +15,9 @@ I wanted to build an interactive digital business card with 3 main features (may
 3. A cluster of **LEDs** that flash in sync with their pulse.
 
 I'm extremely new to hardware design, so my main goal today was just getting the foundational stuff down. Here is what the schematic and layout looks like so far:
+<img width="852" height="517" alt="Screenshot 2026-05-23 at 15 53 26" src="https://github.com/user-attachments/assets/eb4d536d-7d20-44f7-91f9-315ec6d0d255" />
 ![[images/Screenshot 2026-05-23 at 15.53.26.png]]
+<img width="522" height="338" alt="Screenshot 2026-05-23 at 15 53 15" src="https://github.com/user-attachments/assets/bf8ba92c-b976-4aac-be24-3e1504f799e4" />
 ![[images/Screenshot 2026-05-23 at 15.53.15.png]]
 
 The absolute hardest part of today was sourcing the right NFC chip. Because the card needs to be slim and run on a tiny coin-cell battery.
