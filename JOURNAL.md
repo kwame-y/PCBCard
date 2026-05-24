@@ -36,6 +36,7 @@ I plan to design the visual desgin in Affinity, export it, and import the line a
 # May 24th, 2026
 
 It's currently 4 am (Now like 4:50). I woke up motivated to to clean up my design, and I did just that. I found some tips from [this video](https://www.youtube.com/watch?v=S24RvYZWYUQ), and some other forum posts as I worked to clean up my schematic. Now it looks like this:
+<img width="1258" height="626" alt="Screenshot 2026-05-24 at 04 52 21" src="https://github.com/user-attachments/assets/d71e70c9-6f82-4e1f-8bcf-7b617d054c39" />
 
 Much cleaner I'd say, now to move on to figuring how to add images & nice looking text & symbols.
 
