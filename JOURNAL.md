@@ -3,10 +3,9 @@ title: PCBCard
 author: Kwame
 description: A small introductory business card made from PCB, goal is to include a small heart rate sensor or pulse ox for a uniqueness factor!
 created_at: 2026-05-23T11:59:01-05:00
-modified_at: 2026-05-23T14:28:00-05:00
-modified: 2026-05-23T16:00:27-05:00
+modified_at: 2026-05-24T04:54:14-05:00
 ---
-# May 23, 2026
+# May 23rd, 2026
 
 I wanted to build an interactive digital business card with 3 main features (maybe more later).
 
@@ -28,4 +27,12 @@ Because it’s a dedicated tag, it features an I2C interface (`SDA` and `SCL`) t
 
 I plan to design the visual desgin in Affinity, export it, and import the line art directly into KiCad's silkscreen layer. I also want to wrap a custom 4-turn copper loop antenna around the entire outer edge of the card to act as the NFC receiver, while styling the internal copper traces to look like spider webs radiating out from the ATtiny85 brain.
 
-**Time Spent: ~2.75 hours**
+**Time Spent:** ~2.75 hours
+
+# May 24th, 2026
+
+It's currently 4 am (Now like 4:50). I woke up motivated to to clean up my design, and I did just that. I found some tips from [this video](https://www.youtube.com/watch?v=S24RvYZWYUQ), and some other forum posts as I worked to clean up my schematic. Now it looks like this:
+
+Much cleaner I'd say, now to move on to figuring how to add images & nice looking text & symbols.
+
+**Time Spent:** ~45 minutes
