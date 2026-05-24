@@ -27,7 +27,7 @@ Because it’s a dedicated tag, it features an I2C interface (`SDA` and `SCL`) t
 
 I plan to design the visual desgin in Affinity, export it, and import the line art directly into KiCad's silkscreen layer. I also want to wrap a custom 4-turn copper loop antenna around the entire outer edge of the card to act as the NFC receiver, while styling the internal copper traces to look like spider webs radiating out from the ATtiny85 brain.
 
-**Time Spent**: ~2.75 hours
+Time Spent: **~2.75 hours**
 
 # May 24th, 2026
 
@@ -36,4 +36,4 @@ It's currently 4 am (Now like 4:50). I woke up motivated to to clean up my desig
 
 Much cleaner I'd say, now to move on to figuring how to add images & nice looking text & symbols.
 
-**Time Spent**: ~45 minutes
+Time Spent: **~45 minutes**
