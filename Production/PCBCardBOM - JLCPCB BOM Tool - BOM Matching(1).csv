@@ -1,0 +1,11 @@
+Your BOM,,,,,,Order Information,,,,
+Top Designator,Comment,Footprint,Part # ,Manufacturer,Footprint,JLCPCB Part #,Product link,Qty,Source,Total Price ($)
+C1,0.1uF,Capacitor_SMD:C_0805_2012Metric,CC0805KRX7R9BB104,YAGEO,0805,C49678,https://jlcpcb.com/partdetail/YAGEO-CC0805KRX7R9BB104/C49678,2,2 JLCPCB,0.0184
+C2,10uF,Capacitor_SMD:C_0805_2012Metric,GRM21BR61H106KE43L,Murata Electronics,0805,C440198,https://jlcpcb.com/partdetail/439567-GRM21BR61H106KE43L/C440198,2,2 JLCPCB,0.6418
+"D1,D2",LED,LED_SMD:LED_0805_2012Metric,NCD0805R1,Foshan NationStar Optoelectronics,0805,C84256,https://jlcpcb.com/partdetail/85425-NCD0805R1/C84256,4,4 JLCPCB,0.0532
+"R1,R2",330,Resistor_SMD:R_0805_2012Metric,0805W8F3300T5E,UNI-ROYAL(Uniroyal Elec),0805,C17630,https://jlcpcb.com/partdetail/18318-0805W8F3300T5E/C17630,4,4 JLCPCB,0.0108
+"R3,R4",4.7k,Resistor_SMD:R_0805_2012Metric,0805W8F4701T5E,UNI-ROYAL(Uniroyal Elec),0805,C17673,https://jlcpcb.com/partdetail/18361-0805W8F4701T5E/C17673,4,4 JLCPCB,0.0084
+U1,MAX30102,OptoDevice:Maxim_OLGA-14_3.3x5.6mm_P0.8mm,MAX30102EFD+T,Analog Devices Inc./Maxim Integrated,OESIP-14,C6454833,https://jlcpcb.com/partdetail/7407610-MAX30102EFDT/C6454833,0,0 JLCPCB,0
+U2,ATtiny85-20S,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,ATTINY85-20SU,Microchip Technology,SOIC-8-208mil,C31540447,https://jlcpcb.com/partdetail/MicrochipTech-ATTINY8520SU/C31540447,0,0 JLCPCB,0
+U3,NT3H2211W0FHKH,Custom_Libraries:IC_NT3H2211W0FHKH,NT3H2211W0FHKH,NXP Semicon,XQFN-8(1.6x1.6),C2905792,https://jlcpcb.com/partdetail/NXPSemicon-NT3H2211W0FHKH/C2905792,0,0 JLCPCB,0
+BT1,Battery_Cell,Battery:BatteryHolder_Keystone_3002_1x2032,CR2032-BS-6-1,Q&J,,C70377,https://jlcpcb.com/partdetail/QJ-CR2032_BS_61/C70377,0,0 JLCPCB,0
