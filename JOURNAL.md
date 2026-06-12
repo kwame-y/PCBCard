@@ -37,3 +37,10 @@ It's currently 4 am (Now like 4:50). I woke up motivated to to clean up my desig
 Much cleaner I'd say, now to move on to figuring how to add images & nice looking text & symbols.
 
 Time Spent: **~45 minutes**
+
+
+# June 11th, 2026
+
+With the help of auto-router and a copious amount of part shifting I've finally achieved a pretty good result. I had to use this Youtube tutorial to figure out how to make the NFC antenna, it was much simpler than I thought it'd be. I also used this website to help me create the traces easier but I found too much trouble adjusting it so I ended making the traces by hand. Overall I'd say this was a pretty enlightening experience, now all I have left to do is to make it look nicer & more put together. I added some pictures of jellyfish & fish on the card and I want to add some small text with like "Species, Genus, [small blurb]," for some cool factor, mainly because I got inspired from the text on this other [PCB card](https://forge.hackclub.com/projects/342), I might even change up the whole Silkscreen stuff to make it look like a data card of a jellyfish. 
+
+I've also added some contact info for me on the back. It was all made in Inkscape because I got annoyed on working with objects in KiCad, but because I couldn't find
