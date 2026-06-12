@@ -41,3 +41,6 @@ I mainly worked on this because I wanted to challenge to construct my fully poli
 
 
 > Note: I decided I'd buy the NFC chip, Attiny, Battery Cell & Holder, & Heartbeat myself, which is why they have 0 listed for price and quantity. The main cost is the Heart Rate/Oximeter sensor. I'm not sure if I could've found a cheaper option, so this may be a one-off thing
+
+![Order](images/JLCPCBOrder.png)
+> Note: Order from JLCPCB, which only includes the capacitors, LEDs, and resistors. I think a good chunk of this cost is the manufacturing, but I'm also completely new to this process, so I'm not sure what a 'good' price is. I do believe this is justifiable enough?
