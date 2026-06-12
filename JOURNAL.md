@@ -3,7 +3,7 @@ title: PCBCard
 author: Kwame
 description: A small introductory business card made from PCB, goal is to include a small heart rate sensor or pulse ox for a uniqueness factor!
 created_at: 2026-05-23T11:59:01-05:00
-modified_at: 2026-06-12T16:43:59-05:00
+modified_at: 2026-06-12T16:51:56-05:00
 ---
 # May 23rd, 2026
 
@@ -68,6 +68,10 @@ Sidenote: The back layer is filled with copper, it's just not shown in the pictu
 Time Spent: **~2 hours**
 
 # June 12th, 2026
-At this point, it was just about wrapping everything up. Creating a BOM was pretty straightforward and I liked how JLCPCB lets you export the parts you have on. I, once again, completely changed up the design of my silkscreen and have finalised it, I really like the Jellyfish motif and I think it looks pretty cool. After that, I made sure everything based the DRC in KiCAD and created my gerber files, I then uploaded into JLCPCB, changed some parameters, and got a pretty good quote. I also spent some time cleaning up the repository, added an MIT license, and made the README look good. I think I can call it done from here, I'm gonna look through the requirements and resubmit.
+At this point, it was just about wrapping everything up. Creating a BOM was pretty straightforward and I liked how JLCPCB lets you export the parts you have on. I, once again, completely changed up the design of my silkscreen and have finalised it, I really like the Jellyfish motif and I think it looks pretty cool. 
 
+[Jellyfish](images/JellyfishPCB.svg)
+
+After that, I made sure everything based the DRC in KiCAD and created my gerber files, I then uploaded into JLCPCB, changed some parameters, and got a pretty good quote. I also spent some time cleaning up the repository, added an MIT license, and made the README look good. I think I can call it done from here, I'm gonna look through the requirements and resubmit.
+![Order](images/JLCPCBOrder.png)
 Time Spent: **~1.25 hours**
