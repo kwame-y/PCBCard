@@ -25,7 +25,7 @@ Instead, I found a much simpler option, using the **ATtiny85 microcontroller** a
 
 Because it’s a dedicated tag, it features an I2C interface (`SDA` and `SCL`) that shares the exact same data wires as my heart rate sensor, saving valuable pins on the ATtiny85 (from what I understand).Another cool aspect is that it has a `VOUT` energy-harvesting pin and an `FD` (Field Detect) pin that signals the ATtiny85 the exact moment a smartphone interacts with the card's magnetic field (opens doors to some other ideas i could implement).
 
-I plan to design the visual desgin in Affinity, export it, and import the line art directly into KiCad's silkscreen layer. I also want to wrap a custom 4-turn copper loop antenna around the entire outer edge of the card to act as the NFC receiver, while styling the internal copper traces to look like spider webs radiating out from the ATtiny85 brain.
+I plan to design the silkscreen export it, and import the line art directly into KiCad's silkscreen layer. I also want to wrap a custom 4-turn copper loop antenna around the entire outer edge of the card to act as the NFC receiver, while styling the internal copper traces to look like spider webs radiating out from the ATtiny85 brain.
 
 Time Spent: **~2.75 hours**
 
@@ -41,6 +41,10 @@ Time Spent: **~45 minutes**
 
 # June 11th, 2026
 
-With the help of auto-router and a copious amount of part shifting I've finally achieved a pretty good result. I had to use this Youtube tutorial to figure out how to make the NFC antenna, it was much simpler than I thought it'd be. I also used this website to help me create the traces easier but I found too much trouble adjusting it so I ended making the traces by hand. Overall I'd say this was a pretty enlightening experience, now all I have left to do is to make it look nicer & more put together. I added some pictures of jellyfish & fish on the card and I want to add some small text with like "Species, Genus, [small blurb]," for some cool factor, mainly because I got inspired from the text on this other [PCB card](https://forge.hackclub.com/projects/342), I might even change up the whole Silkscreen stuff to make it look like a data card of a jellyfish. 
+With the help of auto-router and a copious amount of part shifting I've finally achieved a pretty good result. I had to use this [Youtube tutorial](https://youtu.be/j1Ck5NCs40M?si=HHhHnbbrR60XLGnc) to figure out how to make the NFC antenna, it was much simpler than I thought it'd be. I also used this [website](https://kbeckmann.github.io/nfc-antenna-generator/) to help me create the traces easier but I found too much trouble adjusting it so I ended making the traces by hand. Overall I'd say this was a pretty enlightening experience, now all I have left to do is to make it look nicer & more put together. I added some pictures of jellyfish & fish on the card and I want to add some small text with like "Species, Genus, [small blurb]," for some cool factor, mainly because I got inspired from the text on this other [PCB card](https://forge.hackclub.com/projects/342), I might even change up the whole Silkscreen stuff to make it look like a data card of a jellyfish (i'm very indecisive on what I want it too look like). 
 
-I've also added some contact info for me on the back. It was all made in Inkscape because I got annoyed on working with objects in KiCad, but because I couldn't find
+I've also added some contact info for me on the back. It was all made in Inkscape because I got annoyed on working with objects in KiCad. I also found out KiCad does not have a .ttf or .otf font file, so I used a Hershey font from Github as substitute, I think it does pretty well all things considered. 
+
+What's left for me to do now is add final touches and package it for shipping & hopefully it passes!
+
+Time Spent: **~2.5 hours**
