@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Custom_Libraries") (type "KiCad") (uri "${KIPRJMOD}/Custom_Libraries") (options "") (descr ""))
+	(lib (name "PCBCard") (type "KiCad") (uri "/Users/kwameyeboah/Documents/PCBCard") (options "") (descr ""))
+)
