@@ -47,4 +47,22 @@ I've also added some contact info for me on the back. It was all made in Inkscap
 
 What's left for me to do now is add final touches and package it for shipping & hopefully it passes!
 
+Back of Card with Jellyfish:
+<img width="1722" height="1012" alt="Screenshot 2026-06-11 at 22 32 30" src="https://github.com/user-attachments/assets/f06aa375-390d-422e-9f5d-2c37ac102ad7" />
+
+Front of Card with Jellyfish & Fish:
+<img width="1720" height="1016" alt="Screenshot 2026-06-11 at 22 32 43" src="https://github.com/user-attachments/assets/e715c9e9-2d30-4a49-bc37-721063d541d3" />
+
+Front Copper Layer:
+<img width="1311" height="784" alt="Screenshot 2026-06-11 at 22 34 21" src="https://github.com/user-attachments/assets/3f31e4bf-1dde-4b52-9c77-3d66c362a7c0" />
+
+Back Copper Layer:
+<img width="1286" height="778" alt="Screenshot 2026-06-11 at 22 34 29" src="https://github.com/user-attachments/assets/b98bf021-e714-4cd3-aae0-6a898c168b7e" />
+
+Both Copper Layers
+<img width="963" height="572" alt="Screenshot 2026-06-11 at 22 35 37" src="https://github.com/user-attachments/assets/afdaafba-f5e8-4baf-ae11-b51055a6da16" />
+
+
+Sidenote: The back layer is filled with copper, it's just not shown in the pictures because then it'd look too messy.
+
 Time Spent: **~2.5 hours**
