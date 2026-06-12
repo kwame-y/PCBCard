@@ -70,7 +70,7 @@ Time Spent: **~2 hours**
 # June 12th, 2026
 At this point, it was just about wrapping everything up. Creating a BOM was pretty straightforward and I liked how JLCPCB lets you export the parts you have on. I, once again, completely changed up the design of my silkscreen and have finalised it, I really like the Jellyfish motif and I think it looks pretty cool. 
 
-[Jellyfish](images/JellyfishPCB.svg)
+![Jellyfish](images/JellyfishPCB.svg)
 
 After that, I made sure everything based the DRC in KiCAD and created my gerber files, I then uploaded into JLCPCB, changed some parameters, and got a pretty good quote. I also spent some time cleaning up the repository, added an MIT license, and made the README look good. I think I can call it done from here, I'm gonna look through the requirements and resubmit.
 ![Order](images/JLCPCBOrder.png)
