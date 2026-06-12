@@ -3,7 +3,7 @@ title: PCBCard
 author: Kwame
 description: A small introductory business card made from PCB, goal is to include a small heart rate sensor or pulse ox for a uniqueness factor!
 created_at: 2026-05-23T11:59:01-05:00
-modified_at: 2026-06-12T16:33:39-05:00
+modified_at: 2026-06-12T16:43:59-05:00
 ---
 # May 23rd, 2026
 
