@@ -9,15 +9,22 @@ I mainly worked on this because I wanted to challenge to construct my fully poli
 
 
 ## Schematic
+![Schematic](images/Schematic.png)
 
+## Silkscreen
+![FrontS](images/FrontSilkscreen.png)
+![BackS](images/BackSilkscreen.png)
 
+## PCB Layout
+![FrontC](images/FrontCopper.png)
+![BackC](images/BackCopper.png)
+![FullC](images/FullCopper.png)
+> Note: Ground Pour on Back Layer is not shown in these images
+![FullLay](images/FullLayout.png)
 
-### PCB Layout
-
-
-
-### 3D Model Render
-
+## 3D Render
+![FrontR](images/FrontSilkscreen3D.png)
+![BackR](images/BackSilkscreen3D.png)
 
 
 ## Bill of Materials (BOM)
