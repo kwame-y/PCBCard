@@ -44,3 +44,8 @@ I mainly worked on this because I wanted to challenge to construct my fully poli
 
 ![Order](images/JLCPCBOrder.png)
 > Note: Order from JLCPCB, which only includes the capacitors, LEDs, and resistors. I think a good chunk of this cost is the manufacturing, but I'm also completely new to this process, so I'm not sure what a 'good' price is. I do believe this is justifiable enough?
+
+![Order2](images/JLCPCBOrder2.png)
+> Note: The price went up, because my special order time ran out. It only went up by 2 dollars though.
+
+![PricingChart](images/JLCPCBPrices.png)
